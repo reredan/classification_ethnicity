@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Others
+
+20250320_Notebook_Ethnicity-Classification.html
+20250320_Notebook_Ethnicity-Classification.ipynb
+.ipynb_checkpoints/20250320_Notebook_Ethnicity-Classification-checkpoint.ipynb
